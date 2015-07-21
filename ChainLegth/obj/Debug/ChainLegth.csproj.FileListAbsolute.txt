@@ -1,0 +1,13 @@
+c:\users\mark\documents\visual studio 2012\Projects\ChainLegth\ChainLegth\bin\Debug\ChainLegth.exe.config
+c:\users\mark\documents\visual studio 2012\Projects\ChainLegth\ChainLegth\bin\Debug\ChainLegth.exe
+c:\users\mark\documents\visual studio 2012\Projects\ChainLegth\ChainLegth\bin\Debug\ChainLegth.pdb
+c:\users\mark\documents\visual studio 2012\Projects\ChainLegth\ChainLegth\obj\Debug\ChainLegth.csprojResolveAssemblyReference.cache
+c:\users\mark\documents\visual studio 2012\Projects\ChainLegth\ChainLegth\obj\Debug\MainWindow.baml
+c:\users\mark\documents\visual studio 2012\Projects\ChainLegth\ChainLegth\obj\Debug\MainWindow.g.cs
+c:\users\mark\documents\visual studio 2012\Projects\ChainLegth\ChainLegth\obj\Debug\App.g.cs
+c:\users\mark\documents\visual studio 2012\Projects\ChainLegth\ChainLegth\obj\Debug\ChainLegth_MarkupCompile.cache
+c:\users\mark\documents\visual studio 2012\Projects\ChainLegth\ChainLegth\obj\Debug\ChainLegth.g.resources
+c:\users\mark\documents\visual studio 2012\Projects\ChainLegth\ChainLegth\obj\Debug\ChainLegth.Properties.Resources.resources
+c:\users\mark\documents\visual studio 2012\Projects\ChainLegth\ChainLegth\obj\Debug\ChainLegth.csproj.GenerateResource.Cache
+c:\users\mark\documents\visual studio 2012\Projects\ChainLegth\ChainLegth\obj\Debug\ChainLegth.exe
+c:\users\mark\documents\visual studio 2012\Projects\ChainLegth\ChainLegth\obj\Debug\ChainLegth.pdb
